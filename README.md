@@ -1,6 +1,6 @@
 # PoliOcean-WebSite-Development
 
-ALL PHOTOS ARE COPYRIGHTED SO INSTEAD, YOU CAN WATCH THE VIDEO OF THE LATEST STATE OF THE SITE AND VISIT THIS ADDRESS <a href = "www.politocean.com">www.politocean.com</a>
+ALL PHOTOS ARE COPYRIGHTED SO INSTEAD, YOU CAN WATCH THE VIDEO OF THE LATEST STATE OF THE SITE AND VISIT THIS ADDRESS <a href = "https://www.politocean.com/">www.politocean.com</a>
 <br>
 ## Overview
 
